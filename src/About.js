@@ -1,4 +1,4 @@
-import photoOne from './assets/1.6.webp';
+import photoOne from './assets/1.1.webp';
 import photoTwo from './assets/2.1.webp';
 import photoThree from './assets/3.8.webp';
 import photoFour from'./assets/2.10.webp';
