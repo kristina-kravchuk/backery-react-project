@@ -15,8 +15,6 @@ export const Menu = () =>{
     return(<div>
         <ButtonsMenu menuChoise={menuChoise}/>
         <MenuItems menu={menu}/>
-        
-        
     </div>
     )
 

@@ -3,7 +3,7 @@ body{
 }
 .header{
   height: 100vh;
-  background-image: url(1.6.webp);
+  background-image: url(./assets/1.6.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #EFE1D1;

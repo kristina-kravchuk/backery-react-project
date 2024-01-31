@@ -20,7 +20,7 @@ function App() {
   return (
     <Router>
       <nav>
-      <Link to="/home" className="link">Home</Link>
+      <Link to="/" className="link">Home</Link>
         <Link to="/about" className="link">About</Link>
         <Link to="/menu" className="link">Menu</Link>
         <Link to="/accordion"className="link">FAQ</Link>
@@ -28,7 +28,6 @@ function App() {
 
       <Routes>
       <Route path="/" element={<Home/>}/>
-      <Route path="/home/*" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path="/menu" element={<Menu/>}/>
         <Route path="/accordion" element={<Accordion/>}/>

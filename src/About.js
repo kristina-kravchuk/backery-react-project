@@ -1,12 +1,12 @@
-import photoOne from'./2.4.webp';
-import photoTwo from './2.1.webp';
-import photoThree from './3.8.webp';
-import photoFour from './2.10.webp';
-import photoFive from './2.7.webp';
-import photoSix from './2.3.webp';
-import photoSeven from './1.7.webp';
-import photoEight from './1.8.webp';
-import photoNine from './2.9.webp';
+import photoOne from './assets/1.6.webp';
+import photoTwo from './assets/2.1.webp';
+import photoThree from './assets/3.8.webp';
+import photoFour from'./assets/2.10.webp';
+import photoFive from './assets/2.7.webp';
+import photoSix from './assets/2.3.webp';
+import photoSeven from './assets/1.7.webp';
+import photoEight from './assets/1.8.webp';
+import photoNine from './assets/2.9.webp';
 
 import { useState, useEffect } from 'react';
 

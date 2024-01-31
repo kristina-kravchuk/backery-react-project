@@ -1,5 +1,4 @@
-import {Link, Route, Routes} from 'react-router-dom';
-import { Menu } from './Menu';
+import {Link} from 'react-router-dom';
  import { motion } from 'framer-motion';
 export const Home = () =>{
 
@@ -19,9 +18,6 @@ export const Home = () =>{
         <Link to="/menu">
         <button className='btn_menu'>Open our menu</button>
         </Link>
-        <Routes>
-        <Route path="/menu" element={<Menu/>} />
-      </Routes>
 
         </div>
 
